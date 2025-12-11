@@ -1,6 +1,7 @@
-# H1 - Start met HTML en CSS
+# Superheroes: HTML & CSS basis
 
-Dit project maakt deel uit van mijn persoonlijke leertraject in webontwikkeling. Het doel is het leren van de basis van **HTML** en **CSS**, en het creëren van een nette, eenvoudige webpagina. 🌐
+Dit project maakt deel uit van het **Superheroes-webproject** en mijn persoonlijke leertraject in webontwikkeling.  
+Het doel is het leren van de basis van **HTML** en **CSS**, en het creëren van een nette, eenvoudige webpagina. 🌐
 
 ---
 
@@ -14,4 +15,4 @@ Dit project maakt deel uit van mijn persoonlijke leertraject in webontwikkeling.
 ---
 
 **Marwan Benahmed**  
-Portfolio-project – basis HTML & CSS
+Portfolio-project – Superheroes: basis HTML & CSS
